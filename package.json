@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "todo app using react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrison1/react-redux-todo.git"
+  },
+  "author": "Harrison McGuire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harrison1/react-redux-todo/issues"
+  },
+  "homepage": "https://github.com/Harrison1/react-redux-todo#readme"
+}
