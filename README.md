@@ -1,2 +1,2 @@
 # react-redux-todo
-react redux todo list
+simple react redux todo list
